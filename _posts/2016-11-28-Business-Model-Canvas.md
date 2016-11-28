@@ -11,4 +11,4 @@ author: qwteng
 
 
 
-![template](photos/Business-Model-Canvas.jpg)
+![商业模式画布](https://raw.githubusercontent.com/qwteng/qwteng.github.io/master/_posts/photos/Business-Model-Canvas.jpg)
